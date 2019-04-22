@@ -52,7 +52,7 @@ export default class Services extends Component {
             </pre>
             <h5>生成services代码</h5>
             <pre>{`
-  sm2tsservice --clear
+  (./node_modules/.bin/)sm2tsservice --clear
   `}</pre>
           </div>
           <a href="https://github.com/gogoyqj/sm2tsservice">更多说明 sm2tsservice</a>
